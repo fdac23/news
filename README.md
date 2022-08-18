@@ -51,8 +51,8 @@
 * **Course:** [COSCS-445/COSCS-545]
 * **  Zoom link above  **
 * **  TTh 4:05-5:20
-* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - upon request
-* **TAs:**  TBD. Office hours - TBD
+* **Instructors:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) and Rhema Linder [rlinder@utk.edu](rlinder@utk.edu) (office hours - upon request
+* **TAs:**  Ben Klein [bklein3@vols.utk.edu](bklein3@vols.utk.edu) Office hours - TBD
 * * [** Syllabus **](https://github.com/fdac22/news/blob/master/course.pdf)
 * **Need help?**
 
