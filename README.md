@@ -36,15 +36,9 @@
 # Information for remote participation via Zoom
    - [recorded lectures](https://drive.google.com/drive/folders/1zJXAgIA4wwCoV-DrDc9grWLIPHVTyPKW?usp=sharing)
 
-   - Join from a PC, Mac, iPad, iPhone or Android device:
-      Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345
-      Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
+   - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
 
-   - Join from dial-in phone line: (Note: these are NOT toll-free numbers)
-      Dial: +1 646 558 8656 or +1 408 638 0968
-      Meeting ID: 276 644 8345
-      Participant ID: Shown after joining the meeting
-      International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
+   - Join from dial-in phone line: (Note: these are NOT toll-free numbers); Dial: +1 646 558 8656 or +1 408 638 0968  Meeting ID: 276 644 8345;  Participant ID: Shown after joining the meeting; International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 
 
 # Syllabus for "Fundamentals of Digital Archeology"
