@@ -3,19 +3,17 @@
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
-   * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/)
-   
-            - Do steps 1, 2, 4, and 5
-            - Do Not Share Your Private Key in id_rsa
+   * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/) and link it with GitHub:
+     - Ensure that you've created an SSH key if you do not already have one. (`ed25519` keys are recommended)
+     - Make sure your public SSH keys are added to your GitHub account and that you can use them to access git repos
+     - Do Not Share Your Private Key, in any circumstance
    * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac22/students) so I
       can add you to the to the GitHub group for the course.
       
-            - Start by [**forking** the students repository](https://github.com/fdac22/students)
-            - Add your utk net id as NETID.md (click on '+' - add 
-               new file next to the https//github.com/fdac19/students/+ link)
-            - Add your UTK netid and publickey key (in id_rsa.pub) to
-               NETID.key
-            - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid in all lowercase)
+     - Start by [**forking** the students repository](https://github.com/fdac22/students)
+     - Add your utk net id as NETID.md (click on '+' - add 
+               new file next to the https://github.com/fdac19/students/ link)
+     - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid in all lowercase, e.g. `bklein3.md` or `audris.md`)
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) 
     
@@ -39,27 +37,31 @@ sure I know to look at it sooner.
 ## Configuring ssh 
   * On linux/mac
      * create .ssh/config
-    	1. create ~/.ssh/config
-        ```
+    	1. create ~/.ssh/config or add to it:
+        ```ssh
          host da2
             hostname da2.eecs.utk.edu
             port YOURPORT #from students/ports.md
             user YOURNETID
             LocalForward 8888 127.0.0.1:8888
-            IdentityFile ~/.ssh/id_rsa
+            # add a line similar to below if your SSH key is not automatically used:
+            #IdentityFile ~/.ssh/id_rsa
+            # these two lines are in case we need to re-create any docker containers
+            # and/or reset your container if you break it:
             StrictHostKeyChecking no
             UserKnownHostsFile /dev/null
          ```
 
-        1. place your private key in ~/.ssh/id_rsa
+        1. place your private key in ~/.ssh/ on your client / local machine
         1. Make sure permissions are right
          ```
           chmod -R og-rwx ~/.ssh
          ```
         1. ssh da2
     * Or ssh directly 
-      ```
-       ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da2.eecs.utk.edu
+      ```bash
+      # example uses an RSA key, update all arguments accordingly
+      ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da2.eecs.utk.edu
       ```
   * Windows 10 has ubuntu subsystem: please use it and follow
   linux/mac instructions above. Also please avoid gitbash on Windows: its
