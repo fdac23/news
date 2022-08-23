@@ -34,7 +34,7 @@
 
 
 # Information for remote participation via Zoom / Discord
-   - [recorded lectures](https://drive.google.com/drive/folders/1zJXAgIA4wwCoV-DrDc9grWLIPHVTyPKW?usp=sharing)
+   - [recorded lectures](https://drive.google.com/drive/folders/16iioToalY8WnJJNwsFYxTdI2HdiIDYbr?usp=sharing)
 
    - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
 
