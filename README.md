@@ -27,8 +27,8 @@
    - Create your github account 
       - fork repo students 
       - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
-        see per fdac22/students/README.md, and also provide your
-        utid.key with your public ssh key. Once done, please
+        see per fdac22/students/README.md, and also upload your
+        your public ssh key to your account on github. Once done, please
 	  - submit a pull request to fdac22/students
    - Make sure you do it a day before the next class so we can start ready
 
