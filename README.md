@@ -14,7 +14,7 @@
 
 # Class on Aug 30
    - Please accept your [invitation to fdac22 organization](https://github.com/orgs/fdac22) while logged in to GH via handle you used to submit pull request
-   - If you have not done so yet, please accept github fdac22 invitation (48 accepted 17 pending as of 15:44PM on Aug 30)
+   - If you have not done so yet, please accept github fdac22 invitation (48 accepted 17 pending as of 15:44PM on Aug 30: the class has 107 students, so many of you have not completed instructions or Aug 25!)
    - then 
       - fork repo students 
       - create your utid.md file providing your name and interests:
