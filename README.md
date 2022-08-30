@@ -14,12 +14,11 @@
 
 # Class on Aug 30
    - Please accept your [invitation to fdac22 organization](https://github.com/orgs/fdac22) while logged in to GH via handle you used to submit pull request
-   - If you have not done so yet, please accept github fdac22 invitation (ahillhou)
+   - If you have not done so yet, please accept github fdac22 invitation (48 accepted 17 pending as of 15:44PM on Aug 30)
    - then 
       - fork repo students 
       - create your utid.md file providing your name and interests:
-        see per fdac22/students/README.md, and also provide your
-        utid.key with your public ssh key. Once done, please
+        see per fdac22/students/README.md and upload your ssh key to github. Once done, please
 	  - submit a pull request to fdac22/students
    - [Introductory lecture](https://github.com/orgs/fdac22/lectures/blob/master/prelim.pdf)
 
