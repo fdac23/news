@@ -20,7 +20,7 @@
       - create your utid.md file providing your name and interests:
         see per fdac22/students/README.md and upload your ssh key to github. Once done, please
 	  - submit a pull request to fdac22/students
-   - [Introductory lecture](https://github.com/orgs/fdac22/lectures/blob/master/prelim.pdf)
+   - [Introductory lecture](https://github.com/fdac22/lectures/blob/master/prelim.pdf)
 
 # Class on Aug 25
    - Create your github account 
