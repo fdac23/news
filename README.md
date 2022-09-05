@@ -1,3 +1,20 @@
+# Class on Sep 8
+   - Unfinished parts from Sep 6
+   - Make sure you have
+  
+         a. Forked fdac22/Miniproject1
+         b. Posted the idea for your analysis on your peer's fork
+         c. Responded to the idea that was posted by your peer
+   - Boasters for class project
+   - Question regarding MP1
+
+# Class on Sep 6
+   - [Magic of Internet](https://github.com/fdac22/lectures/blob/master/magic.pdf)
+   - See the simple [text analysis](https://github.com/fdac22/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
+   - Introducing the MiniProject1 process and template
+   - Think about selecting the course project (see course projects for the last six years at fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
+   - Boasters for class project (if you have an idea for the class   project, please commit to fdac22/FinalProjectPitches)
+
 # Class on Sep 1
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac22/news/blob/master/Preliminary.md)
    - Work on fdac22/Practice0: due before class on Sep 6
