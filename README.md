@@ -1,3 +1,6 @@
+# Class on Sep 13
+    - Presenting MP3 results in the assigned groups
+
 # Class on Sep 8
    - Unfinished parts from Sep 6
    - Make sure you have
