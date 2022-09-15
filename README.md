@@ -1,5 +1,11 @@
+# Class on Sep 20
+    - finish boasters, form most teams
+    - potentially finish MP1 presentations planned for Sep 15
+
 # Class on Sep 15
     - Presenting MP3 results by the representatives of each group
+      - be ready to share it from your zoom session;
+      - the presentations will go in group order (the representative from the first group, the second group...)
     - Class(final) project boasters
     
 # Class on Sep 13
