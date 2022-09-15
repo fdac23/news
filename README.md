@@ -1,3 +1,7 @@
+# Class on Sep 15
+    - Presenting MP3 results by the representatives of each group
+    - Class(final) project boasters
+    
 # Class on Sep 13
     - Presenting MP3 results in the assigned groups
 
