@@ -3,13 +3,13 @@
     - potentially finish MP1 presentations planned for Sep 15
 
 # Class on Sep 15
-    - Presenting MP3 results by the representatives of each group
+    - Presenting MP1 results by the representatives of each group
       - be ready to share it from your zoom session;
       - the presentations will go in group order (the representative from the first group, the second group...)
     - Class(final) project boasters
     
 # Class on Sep 13
-    - Presenting MP3 results in the assigned groups
+    - Presenting MP1 rsults in the assigned groups
 
 # Class on Sep 8
    - Unfinished parts from Sep 6
