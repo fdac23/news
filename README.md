@@ -1,3 +1,7 @@
+# Class on Sep 22
+    - Create more boasters
+    - work on project proposals
+
 # Class on Sep 20
     - Finish boasters, form most teams
     - Finish MP1 presentations planned for Sep 15
