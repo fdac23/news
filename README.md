@@ -1,7 +1,7 @@
 # Class on Sep 20
     - Finish boasters, form most teams
     - Finish MP1 presentations planned for Sep 15
-        - groups 11, 12, 14, 15, 6
+        - groups 13, 15, 14, 6, 11 
 
 # Class on Sep 15
     - Presenting MP1 results by the representatives of each group
