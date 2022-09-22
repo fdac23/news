@@ -1,6 +1,21 @@
+
+# Class on Sep 27
+    - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk) with the following content
+    - an objective
+    - a brief motivation for the project,
+    - detailed discussion of the data that will be obtained or used in the project,
+    - responsibilities of each member, along with
+    - a time-line of milestones, and
+    - the expected outcome
+    - The proposal pdf will be committed on Sep 28 to fdac22/ProjectName/proposal.pdf
+
 # Class on Sep 22
-    - Create more boasters
-    - work on project proposals
+    - if you already have a team please
+       - ask to create your own discord channel for this course
+       - work on the project proposal (see Sep 27)
+    - if you need team members or have no project 
+       - please join class zoom call 
+       - find your project-mates
 
 # Class on Sep 20
     - Finish boasters, form most teams
