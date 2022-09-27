@@ -8,7 +8,7 @@
    - responsibilities of each member, along with
    - a time-line of milestones, and
    - the expected outcome
-   - The proposal pdf will be committed on Sep 28 to fdac22/ProjectName/proposal.pdf
+   - The proposal pdf will be committed on Sep 29 to fdac22/ProjectName/proposal.pdf or, if repositort is still not there, as a link to overleaf in your projects readme file. 
 
 # Class on Sep 22
     - if you already have a team please
