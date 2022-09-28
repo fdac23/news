@@ -2,6 +2,7 @@
 # Class on Sep 29
    - Introducing MP2 and GCP
    - Final questions about the proposal 
+   - The proposal pdf will be committed by the end of day on Sep 29 to fdac22/ProjectName/proposal.pdf.
 
 # Class on Sep 27
    - Work on your proposals! Class zoom is only to answer questions you may have about the proposal. 
@@ -12,7 +13,7 @@
    - responsibilities of each member, along with
    - a time-line of milestones, and
    - the expected outcome
-   - The proposal pdf will be committed on Sep 29 to fdac22/ProjectName/proposal.pdf or, if repositort is still not there, as a link to overleaf in your projects readme file. 
+   - The proposal pdf will be committed by the end of day on Sep 29 to fdac22/ProjectName/proposal.pdf. 
 
 # Class on Sep 22
     - if you already have a team please
