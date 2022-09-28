@@ -1,4 +1,8 @@
 
+# Class on Sep 29
+   - Introducing MP2 and GCP
+   - Final questions about the proposal 
+
 # Class on Sep 27
    - Work on your proposals! Class zoom is only to answer questions you may have about the proposal. 
    - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk) with the following content
