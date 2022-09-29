@@ -1,5 +1,6 @@
 
 # Class on Sep 29
+   - [Data Dicovery](https://github.com/fdac22/lectures/blob/master/dd.pdf)
    - Introducing MP2 and GCP
    - Final questions about the proposal 
    - The proposal pdf will be committed by the end of day on Sep 29 to fdac22/ProjectName/proposal.pdf.
