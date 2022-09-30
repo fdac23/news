@@ -1,4 +1,19 @@
 
+# Class on Oct 11
+  - MP2 due
+
+# Class on Oct 6
+  - Fall break
+
+# Class on Oct 4
+   - [Data Storage](https://github.com/fdac22/lectures/blob/master/dd.pdf)
+   - Questions about MP2
+   - Questions about GCP
+   
+# Class on Sep 29
+   - [Data Dicovery](https://github.com/fdac22/lectures/blob/master/dd.pdf)
+
+
 # Class on Sep 29
    - [Data Dicovery](https://github.com/fdac22/lectures/blob/master/dd.pdf)
    - Introducing MP2 and GCP
