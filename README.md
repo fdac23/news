@@ -6,7 +6,7 @@
   - Fall break
 
 # Class on Oct 4
-   - [Data Storage](https://github.com/fdac22/lectures/blob/master/dd.pdf)
+   - [Data Storage](https://github.com/fdac22/lectures/blob/master/db.pdf)
    - Questions about MP2
    - Questions about GCP
    
