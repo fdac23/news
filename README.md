@@ -1,6 +1,7 @@
 
 # Class on Oct 11
   - MP2 due
+  - Intro to MP3
 
 # Class on Oct 6
   - Fall break
