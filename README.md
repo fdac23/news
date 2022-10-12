@@ -1,5 +1,5 @@
 
-# Class on Oct 11
+# Class on Oct 13
   - Intro to gcp (fixed)
   - Q/A on MP3A
   
