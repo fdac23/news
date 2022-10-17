@@ -1,4 +1,9 @@
 
+# Class on Oct 18
+  - no need to participate if done with MP3 and have no questions on GCP
+  - Q/A on MP3A
+  - Q/A gcp 
+   
 # Class on Oct 13
   - Intro to gcp (fixed)
   - Q/A on MP3A
