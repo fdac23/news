@@ -1,4 +1,12 @@
 
+# Class on Oct 25, 27
+  - work on class projects
+
+# Class on Oct 20
+  - Intro to MP3 part B
+  - Q/A on MP3A
+  - Q/A gcp 
+
 # Class on Oct 18
   - no need to participate if done with MP3 and have no questions on GCP
   - Q/A on MP3A
