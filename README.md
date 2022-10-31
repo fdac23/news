@@ -1,4 +1,7 @@
-
+# Class on Nov 1
+  - Intro to MP3C
+  - Q/A
+  
 # Class on Oct 25, 27
   - work on class projects
 
