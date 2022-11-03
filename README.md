@@ -1,3 +1,35 @@
+# Final Project Reports (Due Dec 10)
+  Similar to proposals, but note additional sections:
+  - Objective (research question)
+  - Data that was used: how obtained, how processed, integrated, and validated
+  - What models or algorithms were used
+  - Results: A description of the results
+  - Primary issues encountered during the project
+  - Future work: ideas generated, improvements that would make sense, etc
+  - Org chart: rough timeline and responsibilities for each member 
+
+# Presentations on Dec 6:
+  - Animal Detection
+  - Terrain Mapping
+  - Clickbait Detection
+  - Rating Day Trading
+  - Cardiac Health
+  - Travel Recommendations
+  - Steam Reviews Analysis
+
+# Presentations on Dec 1:
+  - Password Analysis
+  - NFL Upset Prediction
+  - Social Media Sentiment
+
+# Presentations on Nov 29:
+
+
+# Class on Nov 3
+  - Q/A
+  - if your team has not done so, please declare your intended data
+    of [the final project presentation](https://github.com/fdac22/news/issues/1)
+
 # Class on Nov 1
   - Intro to MP3C
   - Q/A
