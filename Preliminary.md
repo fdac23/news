@@ -7,10 +7,10 @@
      - Ensure that you've created an SSH key if you do not already have one. (`ed25519` keys are recommended)
      - Make sure your public SSH keys are added to your GitHub account and that you can use them to access git repos
      - Do Not Share Your Private Key, in any circumstance
-   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac22/students) so I
+   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac23/students) so I
       can add you to the to the GitHub group for the course.
       
-     - Start by [**forking** the students repository](https://github.com/fdac22/students)
+     - Start by [**forking** the students repository](https://github.com/fdac23/students)
      - Add your utk net id as NETID.md (click on '+' - add 
                new file next to the https://github.com/fdac19/students/ link)
      - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid in all lowercase, e.g. `bklein3.md` or `audris.md`)
@@ -18,7 +18,7 @@
    * Walk through [workflow](#workflow) 
     
 ## Typical workflow
-1. To start, [**fork** the repository][forking] for the test project (found under [github.com/fdac22](https://github.com/fdac22))
+1. To start, [**fork** the repository][forking] for the test project (found under [github.com/fdac23](https://github.com/fdac23))
 1. [**Clone**][ref-clone] the repository to your computer.
 1. View, create, and edit your files
 1. [**commit**][ref-commit] changes to complete your solution.

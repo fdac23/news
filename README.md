@@ -1,179 +1,34 @@
-# Final Project Reports (Due Dec 10)
-  Similar to proposals, but note additional sections:
-  - Objective (research question)
-  - Data that was used: how obtained, how processed, integrated, and validated
-  - What models or algorithms were used
-  - Results: A description of the results
-  - Primary issues encountered during the project
-  - Future work: ideas generated, improvements that would make sense, etc
-  - Org chart: rough timeline and responsibilities for each member 
-
-# Presentations on Dec 6:
-  - Animal Detection
-  - Terrain Mapping
-  - Clickbait Detection
-  - Rating Day Trading
-  - Cardiac Health
-  - Travel Recommendations
-  - Steam Reviews Analysis
-
-# Presentations on Dec 1:
-  - Password Analysis
-  - NFL Upset Prediction
-  - Social Media Sentiment
-
-# Presentations on Nov 29:
 
 
-# Class on Nov 3
-  - Q/A
-  - if your team has not done so, please declare your intended data
-    of [the final project presentation](https://github.com/fdac22/news/issues/1)
-
-# Class on Nov 1
-  - Intro to MP3C
-  - Q/A
-  
-# Class on Oct 25, 27
-  - work on class projects
-
-# Class on Oct 20
-  - Intro to MP3 part B
-  - Q/A on MP3A
-  - Q/A gcp 
-
-# Class on Oct 18
-  - no need to participate if done with MP3 and have no questions on GCP
-  - Q/A on MP3A
-  - Q/A gcp 
-   
-# Class on Oct 13
-  - Intro to gcp (fixed)
-  - Q/A on MP3A
-  
-# Class on Oct 11
-  - MP2 due
-  - Intro to MP3
-
-# Class on Oct 6
-  - Fall break
-
-# Class on Oct 4
-   - [Data Storage](https://github.com/fdac22/lectures/blob/master/db.pdf)
-   - Questions about MP2
-   - Questions about GCP
-   
-# Class on Sep 29
-   - [Data Dicovery](https://github.com/fdac22/lectures/blob/master/dd.pdf)
-
-
-# Class on Sep 29
-   - [Data Dicovery](https://github.com/fdac22/lectures/blob/master/dd.pdf)
-   - Introducing MP2 and GCP
-   - Final questions about the proposal 
-   - The proposal pdf will be committed by the end of day on Sep 29 to fdac22/ProjectName/proposal.pdf.
-
-# Class on Sep 27
-   - Work on your proposals! Class zoom is only to answer questions you may have about the proposal. 
-   - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk) with the following content
-   - an objective
-   - a brief motivation for the project,
-   - detailed discussion of the data that will be obtained or used in the project,
-   - responsibilities of each member, along with
-   - a time-line of milestones, and
-   - the expected outcome
-   - The proposal pdf will be committed by the end of day on Sep 29 to fdac22/ProjectName/proposal.pdf. 
-
-# Class on Sep 22
-    - if you already have a team please
-       - ask to create your own discord channel for this course
-       - work on the project proposal (see Sep 27)
-    - if you need team members or have no project 
-       - please join class zoom call 
-       - find your project-mates
-
-# Class on Sep 20
-    - Finish boasters, form most teams
-    - Finish MP1 presentations planned for Sep 15
-        - groups 13, 15, 14, 6, 11 
-
-# Class on Sep 15
-    - Presenting MP1 results by the representatives of each group
-      - be ready to share it from your zoom session;
-      - the presentations will go in group order (the representative from the first group, the second group...)
-    - Class(final) project boasters
-    
-# Class on Sep 13
-    - Presenting MP1 rsults in the assigned groups
-
-# Class on Sep 8
-   - Unfinished parts from Sep 6
-   - Make sure you have
-  
-         a. Forked fdac22/Miniproject1
-         b. Posted the idea for your analysis on your peer's fork
-         c. Responded to the idea that was posted by your peer
-   - Boasters for class project
-   - Question regarding MP1
-
-# Class on Sep 6
-   - [Magic of Internet](https://github.com/fdac22/lectures/blob/master/magic.pdf)
-   - See the simple [text analysis](https://github.com/fdac22/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
-   - Introducing the MiniProject1 process and template
-   - Think about selecting the course project (see course projects for the last six years at fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
-   - Boasters for class project (if you have an idea for the class   project, please commit to fdac22/FinalProjectPitches)
-
-# Class on Sep 1
-   - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac22/news/blob/master/Preliminary.md)
-   - Work on fdac22/Practice0: due before class on Sep 6
-      - It involves 
-         - forking
-         - ssh and clone to your docker container
-         - rename the notebook on your container
-         - completing notebook in your browser (while connected to yor container)
-         - adding/commiting/pushing from your container
-         - creating pull request from your fork
-      - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
-   - [Critical Tools](https://github.com/fdac22/lectures/blob/master/tools.pdf)
-   - [Version Control](https://github.com/fdac22/lectures/blob/master/version_control-FDAC.pdf)
-
-# Class on Aug 30
-   - Please accept your [invitation to fdac22 organization](https://github.com/orgs/fdac22) while logged in to GH via handle you used to submit pull request
-   - If you have not done so yet, please accept github fdac22 invitation (48 accepted 17 pending as of 15:44PM on Aug 30. Also,the class has 107 students, so many of you have not completed instructions for Aug 25th class!)
-   - then 
-      - fork repo students 
-      - create your utid.md file providing your name and interests:
-        see per fdac22/students/README.md and upload your ssh key to github. Once done, please
-	  - submit a pull request to fdac22/students
-   - [Introductory lecture](https://github.com/fdac22/lectures/blob/master/prelim.pdf)
-
-# Class on Aug 25
+# Class on Aug 24
    - Create your github account 
       - fork repo students 
       - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
-        see per fdac22/students/README.md, and also upload your
+        see per fdac23/students/README.md, and also upload your
         your public ssh key to your account on github. Once done, please
-	  - submit a pull request to fdac22/students
+	  - submit a pull request to fdac23/students
    - Make sure you do it a day before the next class so we can start ready
 
 
 # Information for remote participation via Zoom / Discord
-   - [recorded lectures](https://drive.google.com/drive/folders/16iioToalY8WnJJNwsFYxTdI2HdiIDYbr?usp=sharing)
-
+   -
+   [recorded lectures](https://drive.google.com/drive/folders/1_JEpY3tV6XXafmC_KZU9oPXc5tS2l5B-?usp=sharing)
+   
    - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
 
    - Join from dial-in phone line: (Note: these are NOT toll-free numbers); Dial: +1 646 558 8656 or +1 408 638 0968  Meeting ID: 276 644 8345;  Participant ID: Shown after joining the meeting; International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 
- - Join the Discord server from this link and follow the instructions https://discord.gg/hy7AZMPnMQ
+ - Join the Discord server from this link and follow the instructions TBD
 
 
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
-* **  Zoom link above  **
-* **  TTh 4:05-5:20
-* **Instructors:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) and Rhema Linder [rlinder@utk.edu](rlinder@utk.edu) (office hours - upon request
-* **TAs:**  Ben Klein [bklein3@vols.utk.edu](bklein3@vols.utk.edu) Office hours - TBD
-* * [** Syllabus **](https://github.com/fdac22/news/blob/master/course.pdf)
+* **  Zoom link above  ** and in MK524
+* **  TTh 11:20-12:35
+* **Instructors:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)  (office hours - upon request)
+* **TAs:**  Ben Klein [bklein3@vols.utk.edu](bklein3@vols.utk.edu)
+  Taylor Villarreal  Office hours - TBD
+* * [** Syllabus **](https://github.com/fdac23/news/blob/master/course.pdf)
 * **Need help?**
 
 Simple rules: 
@@ -181,9 +36,9 @@ Simple rules:
 1. There are no stupid questions. However, it may be worth going over the following steps:
 1. Think of what the right answer may be.
 1. Search online: stack overflow, etc.
-     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac22/)
+     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac23/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
-1. Look through [issues](https://github.com/fdac22/news/issues)
+1. Look through [issues](https://github.com/fdac23/news/issues)
 1. Post the question as an issue.
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
@@ -384,6 +239,17 @@ This class assumes you are confident with this material, but in case you need a 
 * GitHub Pages
     * [Official site](http://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
+
+# Final Project Report outline
+  Similar to proposals, but note additional sections:
+  - Objective (research question)
+  - Data that was used: how obtained, how processed, integrated, and validated
+  - What models or algorithms were used
+  - Results: A description of the results
+  - Primary issues encountered during the project
+  - Future work: ideas generated, improvements that would make sense, etc
+  - Org chart: rough timeline and responsibilities for each member 
 
 
 <!-- Links -->
