@@ -18,7 +18,7 @@
 
    - Join from dial-in phone line: (Note: these are NOT toll-free numbers); Dial: +1 646 558 8656 or +1 408 638 0968  Meeting ID: 276 644 8345;  Participant ID: Shown after joining the meeting; International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 
- - Join the Discord server from this link and follow the instructions https://discord.gg/W9KxECPuVh
+ - Join the Discord server from this [link](https://discord.gg/W9KxECPuVh) and follow the instructions
 
 
 # Syllabus for "Fundamentals of Digital Archeology"
@@ -27,7 +27,7 @@
 * **  TTh 11:20-12:35
 * **Instructors:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)  (office hours - upon request)
 * **TAs:**  Ben Klein [bklein3@vols.utk.edu](bklein3@vols.utk.edu)
-  Taylor Villarreal  Office hours - TBD
+  Taylor Villarreal [tvillarr@vols.utk.edu](tvillarr@vols.utk.edu) Office hours - TBD
 * * [** Syllabus **](https://github.com/fdac23/news/blob/master/course.pdf)
 * **Need help?**
 
