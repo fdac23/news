@@ -187,6 +187,18 @@ These apply to real life, as well.
    should provide a brief motivation of the project, detailed
    discussion of the data that will be obtained or used in the project,
    along with a time-line of milestones, and expected outcome.
+* Scale
+  
+letter | percent
+-------|--------
+a	|95
+a-	|93
+b+	|90
+b	|88
+b-	|85
+c+	|83
+c	|79
+c-	|75
 
 ## Other considerations
 
