@@ -37,8 +37,8 @@
 # Groups for MP1
 
     1. tvillarr vpk542 jhawki41 rcarnes jsteed kpatel68 
-    1. rrosenb4 xzl263 bhaynie mpuryea2 mtiwari 
-    3. tpanumat gbb823 ebriggs4 sjeroute ttahmid lliu58 
+    2. kpatel68 rrosenb4 xzl263 bhaynie mtiwari tpanumat 
+    3. gbb823 ebriggs4 sjeroute ttahmid lliu58 
     4. mwang43 ipelton smalluri hdehler wcuny 
     5. jskeen6 asharm42 san5 andlrutt cgraha37 
     6. jskupien slaughl2 jblackab wfortner jhulen 
@@ -48,7 +48,7 @@
     10. afranz1 cheadri6 jbrouss2 shuang24 hnguye48 
     11. bnd674 lbower10 zperry4 jhalloy jrich19 
     12. cfishe36 mpatel65 naskew skerzel zmille10 dwoun 
-    13. jyoshiok wouyang2 cshubert evaugha3 ayu5 mstott3 
+    13. wouyang2 cshubert evaugha3 ayu5 mstott3 
     14. alay10 jarmiger azeng2 rlau agreer26 
     15. rgarg4 ely1 amistry2 jkim172 hli102 
     16. wquesinb jmckni13 jshoffn3 knuchol1 sshiran1
