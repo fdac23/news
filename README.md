@@ -1,3 +1,40 @@
+# Class on Sep 21
+    - Finish boasters, form most teams
+    - Finish MP1 presentations planned for Sep 19
+
+
+# Class on Sep 19
+    - Class(final) project boasters
+    - Presenting MP1 results by the representatives of each group
+      - be ready to share it from your zoom session;
+      - the presentations will go in group order (the representative from the first group, the second group...)
+
+# Class on Sep 14
+    - Class(final) project boasters
+    - Presenting MP1 rsults in the assigned groups
+
+# Class on Sep 12
+    - Work on MP1, including discussing with your assigned peer
+
+# Class on Sep 7
+   - Unfinished parts from Sep 5
+   - Make sure you have
+  
+         a. Forked fdac23/Miniproject1
+         b. Posted the idea for your analysis on your peer's fork
+         c. Responded to the idea that was posted by your peer
+   - Boasters for class project
+   - Question regarding MP1
+
+
+# Class on Sep 5
+   - See the simple [text analysis](https://github.com/fdac23/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
+   - Introducing the MiniProject1 process and template
+   - Think about selecting the course project (see course projects
+     for the last seven years at fdac22, fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
+   - Boasters for class project (if you have an idea for the class   project, please commit to fdac23/FinalProjectPitches)
+
+
 # Class on Aug 31
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac23/news/blob/master/Preliminary.md)
    - Work on fdac23/Practice0: due before class on Sep 7
@@ -11,7 +48,7 @@
       - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
    - [Critical Tools](https://github.com/fdac23/lectures/blob/master/tools.pdf)
    - [Version Control](https://github.com/fdac23/lectures/blob/master/version_control-FDAC.pdf)
-
+   - [Magic of Internet](https://github.com/fdac23/lectures/blob/master/magic.pdf)
 
 # Class on Aug 29
    - 88 registered for the class, but only 80 have submitted PR: see instructions for
