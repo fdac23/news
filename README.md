@@ -1,3 +1,17 @@
+# Class on Aug 31
+   - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac23/news/blob/master/Preliminary.md)
+   - Work on fdac23/Practice0: due before class on Sep 7
+      - It involves 
+         - forking
+         - ssh and clone to your docker container
+         - rename the notebook on your container
+         - completing notebook in your browser (while connected to yor container)
+         - adding/commiting/pushing from your container
+         - creating pull request from your fork
+      - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
+   - [Critical Tools](https://github.com/fdac23/lectures/blob/master/tools.pdf)
+   - [Version Control](https://github.com/fdac23/lectures/blob/master/version_control-FDAC.pdf)
+
 
 # Class on Aug 29
    - 88 registered for the class, but only 80 have submitted PR: see instructions for

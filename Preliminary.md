@@ -32,16 +32,16 @@ request as the work is still in-progress if you are stuck and want
 to ask a question – just mention `@audris` with the question to make
 sure I know to look at it sooner.
 
-## Initial setup: to be done on/by Aug 30
+## Initial setup: to be done on/by Aug 31
 
 ## Configuring ssh 
   * On linux/mac
      * create .ssh/config
     	1. create ~/.ssh/config or add to it:
         ```ssh
-         host da2
-            hostname da2.eecs.utk.edu
-            port YOURPORT #from students/ports.md
+         host da3
+            hostname da3.eecs.utk.edu
+            port YOURPORT #from students/Ports.md
             user YOURNETID
             LocalForward 8888 127.0.0.1:8888
             # add a line similar to below if your SSH key is not automatically used:
@@ -57,11 +57,11 @@ sure I know to look at it sooner.
          ```
           chmod -R og-rwx ~/.ssh
          ```
-        1. ssh da2
+        1. ssh da3
     * Or ssh directly 
       ```bash
       # example uses an RSA key, update all arguments accordingly
-      ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da2.eecs.utk.edu
+      ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da3.eecs.utk.edu
       ```
   * Windows 10 has ubuntu subsystem: please use it and follow
   linux/mac instructions above. Also please avoid gitbash on Windows: its
