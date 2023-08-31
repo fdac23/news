@@ -14,6 +14,13 @@
      - Add your utk net id as NETID.md (click on '+' - add 
                new file next to the https://github.com/fdac19/students/ link)
      - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid in all lowercase, e.g. `bklein3.md` or `audris.md`)
+    
+     - If you receive a `Permission denied: publickey ` error, Add this to your ssh/config file:
+       ```
+       Host github.com
+         IdentityFile ~/.ssh/[your ssh key file]
+       ```
+       note: Your SSH key file is the one that doesn't end in `.pub`
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) 
     
