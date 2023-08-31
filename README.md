@@ -34,6 +34,24 @@
      for the last seven years at fdac22, fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
    - Boasters for class project (if you have an idea for the class   project, please commit to fdac23/FinalProjectPitches)
 
+# Groups for MP1
+
+    1. tvillarr vpk542 jhawki41 rcarnes jsteed kpatel68 
+    1. rrosenb4 xzl263 bhaynie mpuryea2 mtiwari 
+    3. tpanumat gbb823 ebriggs4 sjeroute ttahmid lliu58 
+    4. mwang43 ipelton smalluri hdehler wcuny 
+    5. jskeen6 asharm42 san5 andlrutt cgraha37 
+    6. jskupien slaughl2 jblackab wfortner jhulen 
+    7. jbower31 pgajjala jmcelr10 fhill5 jchen125 oselyuti 
+    8. bmarth loneal7 smistry1 afriend3 jking148 
+    9. hcurl kchrist gjur1 kcraddoc echavez2 nshoap 
+    10. afranz1 cheadri6 jbrouss2 shuang24 hnguye48 
+    11. bnd674 lbower10 zperry4 jhalloy jrich19 
+    12. cfishe36 mpatel65 naskew skerzel zmille10 dwoun 
+    13. jyoshiok wouyang2 cshubert evaugha3 ayu5 mstott3 
+    14. alay10 jarmiger azeng2 rlau agreer26 
+    15. rgarg4 ely1 amistry2 jkim172 hli102 
+    16. wquesinb jmckni13 jshoffn3 knuchol1 sshiran1
 
 # Class on Aug 31
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac23/news/blob/master/Preliminary.md)
