@@ -1,3 +1,4 @@
+
 # Class on Sep 21
     - Finish boasters, form most teams
     - Finish MP1 presentations planned for Sep 19
@@ -38,9 +39,9 @@
 
     1. tvillarr vpk542 jhawki41 rcarnes jsteed kpatel68 
     2. kpatel68 rrosenb4 xzl263 bhaynie mtiwari tpanumat 
-    3. gbb823 ebriggs4 sjeroute ttahmid lliu58 
-    4. mwang43 ipelton smalluri hdehler wcuny 
-    5. jskeen6 asharm42 san5 andlrutt cgraha37 
+    3. gbb823 ebriggs4 sjeroute ttahmid lliu58 lsmit248
+    4. mwang43 ipelton smalluri hdehler wcuny wouyang2
+    5. jskeen6 asharm42 san5 andlrutt cgraha37 kzeligow
     6. jskupien slaughl2 jblackab wfortner jhulen 
     7. jbower31 pgajjala jmcelr10 fhill5 jchen125 oselyuti 
     8. bmarth loneal7 smistry1 afriend3 jking148 
