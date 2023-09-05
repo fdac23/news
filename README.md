@@ -37,10 +37,10 @@
 
 # Groups for MP1
 
-    1. tvillarr vpk542 jhawki41 rcarnes jsteed kpatel68 
-    2. kpatel68 rrosenb4 xzl263 bhaynie mtiwari tpanumat 
+    1. vpk542 jhawki41 rcarnes jsteed kpatel68 
+    2. rrosenb4 xzl263 bhaynie mtiwari tpanumat 
     3. gbb823 ebriggs4 sjeroute ttahmid lliu58 lsmit248
-    4. mwang43 ipelton smalluri hdehler wcuny wouyang2
+    4. mwang43 ipelton smalluri hdehler wcuny emoran11
     5. jskeen6 asharm42 san5 andlrutt cgraha37 kzeligow
     6. jskupien slaughl2 jblackab wfortner jhulen 
     7. jbower31 pgajjala jmcelr10 fhill5 jchen125 oselyuti 
@@ -50,8 +50,8 @@
     11. bnd674 lbower10 zperry4 jhalloy jrich19 
     12. cfishe36 mpatel65 naskew skerzel zmille10 dwoun 
     13. wouyang2 cshubert evaugha3 ayu5 mstott3 
-    14. alay10 jarmiger azeng2 rlau agreer26 
-    15. rgarg4 ely1 amistry2 jkim172 hli102 
+    14. alay10 jarmiger azeng2 rlau agreer26 twu21
+    15. rgarg4 ely1 amistry2 jkim172 hli102 lswann
     16. wquesinb jmckni13 jshoffn3 knuchol1 sshiran1
 
 # Class on Aug 31
