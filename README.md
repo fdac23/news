@@ -2,38 +2,12 @@
 # Class on Sep 21
     - Finish boasters, form most teams
     - Presenting MP1 results by the representatives of each group
-      - be ready to share it from your zoom session;
       - the presentations will go in group order (the representative from the first group, the second group...)
 
 
 # Class on Sep 19
     - Class(final) project boasters
-    - Presenting MP1 rsults in the assigned groups
-
-# Class on Sep 14
-    - Continue on MP1
-
-# Class on Sep 12
-    - Work on MP1, including discussing with your assigned peer
-
-# Class on Sep 7
-   - Unfinished parts from Sep 5
-   - Make sure you have
-  
-         a. Forked fdac23/Miniproject1
-         b. Posted the idea for your analysis on your peer's fork
-         c. Responded to the idea that was posted by your peer
-   - Boasters for class project
-   - Question regarding MP1
-   - World of Code dataset
-
-
-# Class on Sep 5
-   - See the simple [text analysis](https://github.com/fdac23/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
-   - Introducing the MiniProject1 process and template
-   - Think about selecting the course project (see course projects
-     for the last seven years at fdac22, fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
-   - Boasters for class project (if you have an idea for the class   project, please commit to fdac23/FinalProjectPitches)
+    - Presenting MP1 rsults in the assigned groups (see below)
 
 # Groups for MP1
 
@@ -53,6 +27,32 @@
     14. alay10 jarmiger azeng2 rlau agreer26 twu21
     15. rgarg4 ely1 amistry2 jkim172 hli102 lswann
     16. wquesinb jmckni13 jshoffn3 knuchol1 sshiran1
+
+
+# Class on Sep 14
+    - Continue work on on MP1
+
+# Class on Sep 12
+    - Work on MP1, including discussing with your assigned peer
+    - Make sure you have
+  
+         a. Forked fdac23/Miniproject1
+         b. Posted the idea for your analysis on your peer's fork
+         c. Responded to the idea that was posted by your peer
+
+# Class on Sep 7
+   - Question regarding MP1
+   - Boasters for class project
+   - World of Code dataset
+
+
+# Class on Sep 5
+   - See the simple [text analysis](https://github.com/fdac23/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
+   - Introducing the MiniProject1 process and template
+   - Think about selecting the course project (see course projects
+     for the last seven years at fdac22, fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
+   - Boasters for class project (if you have an idea for the class   project, please commit to fdac23/FinalProjectPitches)
+
 
 # Class on Aug 31
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac23/news/blob/master/Preliminary.md)
