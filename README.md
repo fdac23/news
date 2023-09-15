@@ -1,10 +1,16 @@
 
+# Class on Sep 28
+    - Data discovery/data storage
+    - How to use GCP
+    
+# Class on Sep 26
+    - Finish project proposal
+    
 # Class on Sep 21
     - Finish boasters, form most teams
     - Presenting MP1 results by the representatives of each group
       - be ready to share it from your zoom session;
       - the presentations will go in group order (the representative from the first group, the second group...)
-
 
 # Class on Sep 19
     - Class(final) project boasters
