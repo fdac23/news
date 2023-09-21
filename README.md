@@ -1,15 +1,38 @@
 
+# Class on Oct 24-26
+   - Work on final project, MP3
+
+# Class on Oct 19
+
+# Class on Oct 17
+
+# Class on Oct 12
+    - MP3
+
+# Class on Oct 10
+
+# Class on Oct 3
+    - Data storage
+    - Questions about MP2
+    - Questions about GCP
+
 # Class on Sep 28
-    - Data discovery/data storage
+    - Data discovery
     - How to use GCP
+    - MP2: discovery
     
 # Class on Sep 26
-    - Finish project proposal
+    - Finish/Questions on project proposal
     
 # Class on Sep 21
     - Finish boasters, form most teams
     - Presenting MP1 results by the representatives of each group
-      - the presentations will go in group order (the representative from the first group, the second group...)
+      - the presentations will go in group order (the representative
+      from the first group, the second group...)
+	  - Group 12 cfishe36
+      - Group 14 alay10
+      - Group 15 jkim172
+      - Group 16 knuchol1
 
 # Class on Sep 19
     - Class(final) project boasters
