@@ -12,17 +12,19 @@
 # Class on Oct 10
 
 # Class on Oct 3
-    - Data storage
+    
     - Questions about MP2
     - Questions about GCP
 
-# Class on Sep 28
-    - Data discovery
+# Class on Sep 28    
     - How to use GCP
     - MP2: discovery
+    - Finish FP Proposal, [see instructions](https://github.com/fdac23/FinalProjectPitches/blob/master/README.md)
     
 # Class on Sep 26
     - Finish/Questions on project proposal
+    - Data discovery
+    - Data storage
     
 # Class on Sep 21
     - Finish boasters, form most teams
