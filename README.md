@@ -9,7 +9,7 @@
 # Class on Oct 12
     - MP3
 
-# Class on Oct 10
+# Class on Oct 12
      - GCP + MP2 due
      - MP3
 
