@@ -10,6 +10,13 @@
     - MP3
 
 # Class on Oct 10
+     - GCP + MP2 due
+     - MP3
+
+# Class on Oct 5
+    
+    - Questions about MP2
+    - Questions about GCP
 
 # Class on Oct 3
     
