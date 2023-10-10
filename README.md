@@ -10,7 +10,7 @@
     - MP3
 
 # Class on Oct 12
-     - GCP + MP2 due
+     - GCP + MP2 due [Current status of MP2](https://github.com/fdac23/MiniProject2/blob/master/status.md)
      - MP3
 
 # Class on Oct 5
