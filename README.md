@@ -1,13 +1,39 @@
+# Class on Nov 28, 30, Dec 5 and, potentially 3:30 p.m. – 6:00 p.m. Tuesday, December 12
+    - Final project presentations
+    - MP5 due on Dec 5
+	
+# Class on Nov 21
+    - work on final projects
+
+# Class on Nov 16
+    - MP5
+
+# Class on Nov 14
+    - work on final projects
+
+# Class on Nov 9
+    - Part 2 of MP4 Due
+
+# Class on Nov 7
+    - work on final projects
+
+# Class on Nov 2
+    - Schedule FP presentations for Nov 28, 30, Dec 5
+
+# Class on Oct 31
+   - Brief status updates on final projects
+   - Questions on MP4
+   - Part 1 of MP4 due
 
 # Class on Oct 24-26
-   - Work on final project, MP3
+   - Work on final project, MP3 due Oct 24
 
 # Class on Oct 19
+    - Questions on MP4
 
 # Class on Oct 17
-
-# Class on Oct 12
-    - MP3
+    - Questions on MP3
+    - MP4
 
 # Class on Oct 12
      - GCP + MP2 due [Current status of MP2](https://github.com/fdac23/MiniProject2/blob/master/status.md)
