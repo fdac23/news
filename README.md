@@ -18,6 +18,17 @@
     - work on final projects
 
 # Class on Nov 2
+    - Finish status updates
+       - SalaryRentComparison 
+       - TikTok_Vs._Spotify 
+       - CodeCommitAnalysis
+       - animal-crossing-economy 
+       - PopulationAnalysis 
+       - CodeSigning 
+       - CovidImpact 
+       - GDPandGDI_correlation 
+       - ToTheMoon 
+       - LASharedBikeAnalysis
     - Schedule FP presentations for Nov 28, 30, Dec 5
 
 # Class on Oct 31
