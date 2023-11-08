@@ -1,5 +1,33 @@
+# Dec 5
+    - CodeSigning
+    - AnimalCrossingEconomy
+	- CarbonEmissionAnalysis
+	- 
+
+# Nov 30
+    - CovidImpact
+    - PopulationAnalysis
+	- DrugLink
+	- SalaryRentComparison
+	- CostOfLiving
+	- CarAccidentAnalysis
+	- 
+
+# Nov 28
+    - FitnessandSleepAnalysis
+    - Something's Fishy
+	- Medical Data Analysis
+	- TikTok_Vs._Spotify
+	- jailbreak-gpt
+	- YoutubeMetadata
+	- ChatGPT_Insecure_Code_Analysis
+	- GDPandGDI_correlation - move to Dec 5?
+	- GithubWrapped - move to Dec 5?
+	- 
+
 # Class on Nov 28, 30, Dec 5 and, potentially 3:30 p.m. – 6:00 p.m. Tuesday, December 12
     - Final project presentations
+
     - MP5 due on Dec 5
 	
 # Class on Nov 21
