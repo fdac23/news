@@ -39,9 +39,9 @@
     - work on final projects
 
 # Class on Nov 9
-    - Part 2 of MP4 Due
-    - MP5 
-    - [WoC Hackathon](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/README.md) Nov 17-19 for extra credit (can accomodate up to six students) [registration](https://forms.gle/fVK8nsKYcWBu6HVe6)
+ - Part 2 of MP4 Due
+ - MP5 
+ - [WoC Hackathon](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/README.md) Nov 17-19 for extra credit (can accomodate up to six students) [registration](https://forms.gle/fVK8nsKYcWBu6HVe6)
 
 
 # Class on Nov 7
