@@ -27,21 +27,22 @@
 
 # Class on Nov 28, 30, Dec 5 and, potentially 3:30 p.m. – 6:00 p.m. Tuesday, December 12
     - Final project presentations
-
     - MP5 due on Dec 5
 	
 # Class on Nov 21
     - work on final projects
 
 # Class on Nov 16
-    - MP5
-    - [WoC Hackathon](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/README.md) Nov 17-19 for extra credit (can accomodate up to six students) [registration](https://forms.gle/fVK8nsKYcWBu6HVe6)
-
+    - MP5 clarifications
+    
 # Class on Nov 14
     - work on final projects
 
 # Class on Nov 9
     - Part 2 of MP4 Due
+    - MP5 
+    - [WoC Hackathon](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/README.md) Nov 17-19 for extra credit (can accomodate up to six students) [registration](https://forms.gle/fVK8nsKYcWBu6HVe6)
+
 
 # Class on Nov 7
     - work on final projects
