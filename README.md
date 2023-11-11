@@ -68,6 +68,8 @@
 
 # Class on Oct 24-26
    - Work on final project, MP3 due Oct 24
+   - MP3 grading scheme: nothing - 0, 95%+ of all entries captured - 15; 50%+ of all entries captured - 10; > 0 and < 50% of all entries captured - 5
+
 
 # Class on Oct 19
     - Questions on MP4
