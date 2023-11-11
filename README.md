@@ -39,7 +39,7 @@
     - work on final projects
 
 # Class on Nov 9
- - Part 2 of MP4 Due
+ - Part 2 of MP4 Due: please correct your MP4 until Nov 21: lineFix==true only if the gpt output contains corrected line, otherwise it is false. I noticed many instances where that is not the case
  - MP5 
  - [WoC Hackathon](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/README.md) Nov 17-19 for extra credit (can accomodate up to six students) [registration](https://forms.gle/fVK8nsKYcWBu6HVe6)
 
@@ -79,8 +79,8 @@
     - MP4
 
 # Class on Oct 12
-     - GCP + MP2 due [Current status of MP2](https://github.com/fdac23/MiniProject2/blob/master/status.md)
-     - MP3
+ - GCP + MP2 due [Current status of MP2](https://github.com/fdac23/MiniProject2/blob/master/status.md)
+ - MP3
 
 # Class on Oct 5
     
