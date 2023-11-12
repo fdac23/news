@@ -1,82 +1,87 @@
 # Dec 5
-    - CodeSigning
-    - AnimalCrossingEconomy
-	- CarbonEmissionAnalysis
-	- 
+ - CodeSigning
+ - AnimalCrossingEconomy
+ -  CarbonEmissionAnalysis
+ - KnowThyEnemy
+ - 
 
 # Nov 30
-    - CovidImpact
-    - PopulationAnalysis
-	- DrugLink
-	- SalaryRentComparison
-	- CostOfLiving
-	- CarAccidentAnalysis
-	- 
+ - CovidImpact
+ - PopulationAnalysis
+ - DrugLink
+ - SalaryRentComparison
+ - CostOfLiving
+ - CarAccidentAnalysis
+ - 
 
 # Nov 28
-    - FitnessandSleepAnalysis
-    - Something's Fishy
-	- Medical Data Analysis
-	- TikTok_Vs._Spotify
-	- jailbreak-gpt
-	- YoutubeMetadata
-	- ChatGPT_Insecure_Code_Analysis
-	- GDPandGDI_correlation - move to Dec 5?
-	- GithubWrapped - move to Dec 5?
-	- 
+ - FitnessandSleepAnalysis
+ - Something's Fishy
+ - Medical Data Analysis
+ - TikTok_Vs._Spotify
+ - jailbreak-gpt
+ - YoutubeMetadata
+ - ChatGPT_Insecure_Code_Analysis
+ - GDPandGDI_correlation - move to Dec 5?
+ - GithubWrapped - move to Dec 5?
+ - 
 
 # Class on Nov 28, 30, Dec 5 and, potentially 3:30 p.m. – 6:00 p.m. Tuesday, December 12
-    - Final project presentations
-    - MP5 due on Dec 5
+ - Final project presentations
+ - MP5 due on Dec 5
 	
 # Class on Nov 21
-    - work on final projects
+ - work on final projects
 
 # Class on Nov 16
-    - MP5 clarifications
+ - Please correct your MP4/2 by Nov 21: lineFix==true only if the
+   gpt output contains corrected line, otherwise it is false. In
+   plenty of instances it is set incorrectly. Please inspect and
+   correct: producing misleading curated data is a very serious problem.
+ - MP5 clarifications
     
 # Class on Nov 14
-    - work on final projects
+ - work on final projects
 
 # Class on Nov 9
- - Part 2 of MP4 Due: please correct your MP4 until Nov 21: lineFix==true only if the gpt output contains corrected line, otherwise it is false. I noticed many instances where that is not the case
+ - Part 2 of MP4 Due: please correct your MP4 by Nov 21: lineFix==true only if the gpt output contains corrected line, otherwise it is false. I noticed many instances where that is not the case
  - MP5 
  - [WoC Hackathon](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/README.md) Nov 17-19 for extra credit (can accomodate up to six students) [registration](https://forms.gle/fVK8nsKYcWBu6HVe6)
 
 
 # Class on Nov 7
-    - work on final projects
+ - work on final projects
 
 # Class on Nov 2
-    - Finish status updates
-       - SalaryRentComparison 
-       - TikTok_Vs._Spotify 
-       - CodeCommitAnalysis
-       - animal-crossing-economy 
-       - PopulationAnalysis 
-       - CodeSigning 
-       - CovidImpact 
-       - GDPandGDI_correlation 
-       - ToTheMoon 
-       - LASharedBikeAnalysis
-    - Schedule FP presentations for Nov 28, 30, Dec 5
+ - Finish status updates
+   - SalaryRentComparison 
+   - TikTok_Vs._Spotify 
+   - CodeCommitAnalysis
+   - animal-crossing-economy 
+   - PopulationAnalysis 
+   - CodeSigning 
+   - CovidImpact 
+   - GDPandGDI_correlation 
+   - ToTheMoon 
+   - LASharedBikeAnalysis
+ - Schedule FP presentations for Nov 28, 30, Dec 5
 
 # Class on Oct 31
-   - Brief status updates on final projects
-   - Questions on MP4
-   - Part 1 of MP4 due
+ - Brief status updates on final projects
+ - Questions on MP4
+ - Part 1 of MP4 due
 
 # Class on Oct 24-26
-   - Work on final project, MP3 due Oct 24
-   - MP3 grading scheme: nothing - 0, 95%+ of all entries captured - 15; 50%+ of all entries captured - 10; > 0 and < 50% of all entries captured - 5
+ - Work on final project, MP3 due Oct 24
+ - MP3 grading scheme: nothing - 0, 95%+ of all entries captured - 15; 50%+ of all entries captured - 10; > 0 and < 50% of all entries captured - 5
 
 
 # Class on Oct 19
-    - Questions on MP4
+ - Questions on MP4
 
 # Class on Oct 17
-    - Questions on MP3
-    - MP4
+ - Questions on MP3
+ - MP4
 
 # Class on Oct 12
  - GCP + MP2 due [Current status of MP2](https://github.com/fdac23/MiniProject2/blob/master/status.md)
@@ -84,37 +89,37 @@
 
 # Class on Oct 5
     
-    - Questions about MP2
-    - Questions about GCP
+ - Questions about MP2
+ - Questions about GCP
 
 # Class on Oct 3
     
-    - Questions about MP2
-    - Questions about GCP
+ - Questions about MP2
+ - Questions about GCP
 
 # Class on Sep 28    
-    - How to use GCP
-    - MP2: discovery
-    - Finish FP Proposal, [see instructions](https://github.com/fdac23/FinalProjectPitches/blob/master/README.md)
+ - How to use GCP
+ - MP2: discovery
+ - Finish FP Proposal, [see instructions](https://github.com/fdac23/FinalProjectPitches/blob/master/README.md)
     
 # Class on Sep 26
-    - Finish/Questions on project proposal
-    - Data discovery
-    - Data storage
+ - Finish/Questions on project proposal
+ - Data discovery
+ - Data storage
     
 # Class on Sep 21
-    - Finish boasters, form most teams
-    - Presenting MP1 results by the representatives of each group
-      - the presentations will go in group order (the representative
-      from the first group, the second group...)
-	  - Group 12 cfishe36
-      - Group 14 alay10
-      - Group 15 jkim172
-      - Group 16 knuchol1
+ - Finish boasters, form most teams
+ - Presenting MP1 results by the representatives of each group
+   - the presentations will go in group order (the representative
+   from the first group, the second group...)
+ - Group 12 cfishe36
+  - Group 14 alay10
+  - Group 15 jkim172
+  - Group 16 knuchol1
 
 # Class on Sep 19
-    - Class(final) project boasters
-    - Presenting MP1 rsults in the assigned groups (see below)
+ - Class(final) project boasters
+ - Presenting MP1 rsults in the assigned groups (see below)
 
 # Groups for MP1
 
@@ -137,53 +142,53 @@
 
 
 # Class on Sep 14
-    - Continue work on on MP1
+ - Continue work on on MP1
 
 # Class on Sep 12
-    - Work on MP1, including discussing with your assigned peer
-    - Make sure you have
+ - Work on MP1, including discussing with your assigned peer
+ - Make sure you have
   
-         a. Forked fdac23/Miniproject1
-         b. Posted the idea for your analysis on your peer's fork
-         c. Responded to the idea that was posted by your peer
+  a. Forked fdac23/Miniproject1
+  b. Posted the idea for your analysis on your peer's fork
+  c. Responded to the idea that was posted by your peer
 
 # Class on Sep 7
-   - Question regarding MP1
-   - Boasters for class project
-   - World of Code dataset
+ - Question regarding MP1
+ - Boasters for class project
+ - World of Code dataset
 
 
 # Class on Sep 5
-   - See the simple [text analysis](https://github.com/fdac23/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
-   - Introducing the MiniProject1 process and template
-   - Think about selecting the course project (see course projects
-     for the last seven years at fdac22, fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
-   - Boasters for class project (if you have an idea for the class   project, please commit to fdac23/FinalProjectPitches)
+ - See the simple [text analysis](https://github.com/fdac23/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
+ - Introducing the MiniProject1 process and template
+ - Think about selecting the course project (see course projects
+   for the last seven years at fdac22, fdac21, fdac20, fdac19, fdac18, fdac17,  fdac16, fdac for inspiration)
+ - Boasters for class project (if you have an idea for the class   project, please commit to fdac23/FinalProjectPitches)
 
 
 # Class on Aug 31
-   - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac23/news/blob/master/Preliminary.md)
-   - Work on fdac23/Practice0: due before class on Sep 7
-      - It involves 
-         - forking
-         - ssh and clone to your docker container
-         - rename the notebook on your container
-         - completing notebook in your browser (while connected to yor container)
-         - adding/commiting/pushing from your container
-         - creating pull request from your fork
-      - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
-   - [Critical Tools](https://github.com/fdac23/lectures/blob/master/tools.pdf)
-   - [Version Control](https://github.com/fdac23/lectures/blob/master/version_control-FDAC.pdf)
-   - [Magic of Internet](https://github.com/fdac23/lectures/blob/master/magic.pdf)
+ - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac23/news/blob/master/Preliminary.md)
+ - Work on fdac23/Practice0: due before class on Sep 7
+    - It involves 
+      - forking
+      - ssh and clone to your docker container
+      - rename the notebook on your container
+      - completing notebook in your browser (while connected to yor container)
+      - adding/commiting/pushing from your container
+      - creating pull request from your fork
+   - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
+ - [Critical Tools](https://github.com/fdac23/lectures/blob/master/tools.pdf)
+ - [Version Control](https://github.com/fdac23/lectures/blob/master/version_control-FDAC.pdf)
+ - [Magic of Internet](https://github.com/fdac23/lectures/blob/master/magic.pdf)
 
 # Class on Aug 29
-   - 88 registered for the class, but only 80 have submitted PR: see instructions for
-      the previous class
-   - Please accept your [invitation to fdac23 organization](https://github.com/orgs/fdac23) while logged in to GH via handle you used to submit pull request
-   - If you have not done so yet, please accept github fdac23 invitation
-   - [Introductory lecture](https://github.com/fdac23/lectures/blob/master/prelim.pdf)
-   - [Critical Tools](https://github.com/fdac23/lectures/blob/master/tools.pdf)
-   - [Version Control](https://github.com/fdac22/lectures/blob/master/version_control-FDAC.pdf)
+ - 88 registered for the class, but only 80 have submitted PR: see instructions for
+    the previous class
+ - Please accept your [invitation to fdac23 organization](https://github.com/orgs/fdac23) while logged in to GH via handle you used to submit pull request
+ - If you have not done so yet, please accept github fdac23 invitation
+ - [Introductory lecture](https://github.com/fdac23/lectures/blob/master/prelim.pdf)
+ - [Critical Tools](https://github.com/fdac23/lectures/blob/master/tools.pdf)
+ - [Version Control](https://github.com/fdac22/lectures/blob/master/version_control-FDAC.pdf)
 
 # Class on Aug 24
    - Create your github account 
