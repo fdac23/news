@@ -5,6 +5,7 @@
  - KnowThyEnemy
  - WalkabilityAnalysis
  - LASharedBikeAnalysis
+ - ToTheMoon
 
 # Nov 30
  - CovidImpact
