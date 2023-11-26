@@ -6,6 +6,7 @@
  - WalkabilityAnalysis
  - LASharedBikeAnalysis
  - ToTheMoon
+ - SportsSalaries
 
 # Nov 30
  - CovidImpact
