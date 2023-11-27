@@ -7,6 +7,8 @@
  - LASharedBikeAnalysis
  - ToTheMoon
  - SportsSalaries
+ - jailbreak-gpt
+
 
 # Nov 30
  - CovidImpact
@@ -22,7 +24,6 @@
  - Something's Fishy
  - Medical Data Analysis
  - TikTok_Vs._Spotify
- - jailbreak-gpt
  - YoutubeMetadata
  - ChatGPT_Insecure_Code_Analysis
  - GDPandGDI_correlation - move to Dec 5?
