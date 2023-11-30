@@ -8,6 +8,7 @@
  - ToTheMoon
  - SportsSalaries
  - jailbreak-gpt
+ - Predicting_Movie_Revenue
 
 
 # Nov 30
