@@ -27,8 +27,8 @@
  - TikTok_Vs._Spotify
  - YoutubeMetadata
  - ChatGPT_Insecure_Code_Analysis
- - GDPandGDI_correlation - move to Dec 5?
- - GithubWrapped - move to Dec 5? 
+ - GDPandGDI_correlation 
+ - GithubWrapped 
 
 # Class on Nov 28, 30, Dec 5 and, potentially 3:30 p.m. – 6:00 p.m. Tuesday, December 12
  - Final project presentations
