@@ -1,3 +1,9 @@
+# Reschedule for this or next week (please suggest time)
+   - ToTheMoon
+   - SportsSalaries
+   - jailbreak-gpt
+   - Predicting_Movie_Revenue
+
 # Dec 5
  - CodeSigning
  - AnimalCrossingEconomy
@@ -5,11 +11,7 @@
  - KnowThyEnemy
  - WalkabilityAnalysis
  - LASharedBikeAnalysis
- - ToTheMoon
- - SportsSalaries
- - jailbreak-gpt
- - Predicting_Movie_Revenue
-
+ - I want money
 
 # Nov 30
  - CovidImpact
