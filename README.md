@@ -1,5 +1,4 @@
 # Reschedule for this or next week (please suggest time)
-   - ToTheMoon
    - SportsSalaries
    - jailbreak-gpt
    - Predicting_Movie_Revenue
@@ -12,6 +11,7 @@
  - WalkabilityAnalysis
  - LASharedBikeAnalysis
  - I want money
+ - ToTheMoon
 
 # Nov 30
  - CovidImpact
