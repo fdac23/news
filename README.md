@@ -1,7 +1,4 @@
-# Reschedule for this or next week (please suggest time)
-   - jailbreak-gpt
-   - Predicting_Movie_Revenue
-
+   
 # Dec 5
  - CodeSigning
  - AnimalCrossingEconomy
@@ -12,6 +9,9 @@
  - I want money
  - ToTheMoon
  - SportsSalaries
+ - jailbreak-gpt
+ - Predicting_Movie_Revenue
+
 
 # Nov 30
  - CovidImpact
